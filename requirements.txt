@@ -1,0 +1,5 @@
+tornado==6.1
+pystardog
+jupyterlab
+pandas
+seaborn
